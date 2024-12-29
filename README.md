@@ -1,6 +1,3 @@
-![Ekran görüntüsü 2024-12-29 151140](https://github.com/user-attachments/assets/13587ca0-73e1-4fe0-8d47-10ed981c0a4c)
-![Ekran görüntüsü 2024-12-29 151240](https://github.com/user-attachments/assets/7b77d5d6-ceb0-4fd1-9b0b-cbd655de3737)
-![Ekran görüntüsü 2024-12-29 151207](https://github.com/user-attachments/assets/23eb8d3c-b8b0-4a31-89c4-695113af0a3f)
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-9581-blue)
 
@@ -28,3 +25,6 @@ Here are some ideas to get you started:
 ![Ekran görüntüsü 2024-12-29 142845](https://github.com/user-attachments/assets/04b5cb57-0d2f-4f6e-8198-6b8b361d0d3a)
 ![Ekran görüntüsü 2024-12-29 142921](https://github.com/user-attachments/assets/e41b6d02-fb97-4bf0-b462-df6c888dc22a)
 ![Ekran görüntüsü 2024-12-29 142954](https://github.com/user-attachments/assets/42e56ccd-6fcd-4373-bf76-f379b29afb01)
+![Ekran görüntüsü 2024-12-29 151140](https://github.com/user-attachments/assets/13587ca0-73e1-4fe0-8d47-10ed981c0a4c)
+![Ekran görüntüsü 2024-12-29 151240](https://github.com/user-attachments/assets/7b77d5d6-ceb0-4fd1-9b0b-cbd655de3737)
+![Ekran görüntüsü 2024-12-29 151207](https://github.com/user-attachments/assets/23eb8d3c-b8b0-4a31-89c4-695113af0a3f)
