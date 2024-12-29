@@ -1,6 +1,7 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-9613-blue)
 
+[Click for my stats <3](https://www.leagueofgraphs.com/summoner/euw/farm+minions+ok-1481)
 
 
 <!--
