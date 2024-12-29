@@ -3,6 +3,8 @@
 
 
 [Best Boosting Service By The L9 Squad!](https://l9eloboosting.com/)
+
+[Merch](https://nerdvanaclothing.com/collections/l9)
 <!--
 **smokedawaymybrain/smokedawaymybrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
