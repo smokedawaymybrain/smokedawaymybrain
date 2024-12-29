@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 ![Ekran görüntüsü 2024-12-29 151140](https://github.com/user-attachments/assets/13587ca0-73e1-4fe0-8d47-10ed981c0a4c)
 ![Ekran görüntüsü 2024-12-29 151240](https://github.com/user-attachments/assets/7b77d5d6-ceb0-4fd1-9b0b-cbd655de3737)
 ![Ekran görüntüsü 2024-12-29 151207](https://github.com/user-attachments/assets/23eb8d3c-b8b0-4a31-89c4-695113af0a3f)
+
 *and much more... blame github for the quality, not lookin for members.*
