@@ -1,5 +1,6 @@
-## Profile Views
-![](https://img.shields.io/badge/Profile%20Views-9671-#dfecff?logo=github&logoColor=ffefd0)
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-9581-blue)
+
 
 
 <!--
