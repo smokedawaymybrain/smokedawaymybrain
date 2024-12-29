@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ![LULU999](https://github.com/user-attachments/assets/f3c580e0-ff0f-458a-b30b-6373a9e9e346)
 
-**Daughters of L9**
+**Daughters <3**
 
 1. [L9](https://github.com/user-attachments/assets/a5389a41-b86a-43a7-98dc-63dc80fe3cd3)
 2. [L9](https://github.com/user-attachments/assets/01616db6-b8fc-48fa-b3fe-6689c96a89fa)
