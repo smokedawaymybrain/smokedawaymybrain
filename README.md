@@ -2,9 +2,9 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-9999-89CFF0)
 
 
-[L9](https://l9eloboosting.com/)
+[order boosting](https://l9eloboosting.com/)
 
-[Merch](https://nerdvanaclothing.com/collections/l9)
+[order merch](https://nerdvanaclothing.com/collections/l9)
 <!--
 **smokedawaymybrain/smokedawaymybrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
